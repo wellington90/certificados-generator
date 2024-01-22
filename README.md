@@ -6,9 +6,8 @@
 Este script em Python gera certificados a partir dos dados de uma planilha Excel e salva as imagens resultantes usando um modelo de certificado.
 
 ## Requisitos
-Certifique-se de ter as bibliotecas necessárias instaladas antes de executar o script. Você pode instalá-las usando o seguinte comando:
+Certifique-se de ter as bibliotecas necessárias instaladas antes de executar o script. Você pode instalá-las usando o seguinte comando.
 
-##
 
 1. Clone este repositório:
 
